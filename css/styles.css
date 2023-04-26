@@ -353,8 +353,8 @@ footer ul li a:active {
     .section-two .computer>div:first-child img {
         position: absolute;
         top: -20%;
-        left: -30vw;
-        width: 50rem;
+        left: -20vw;
+        width: 45rem;
     }
 
     .section-three {
